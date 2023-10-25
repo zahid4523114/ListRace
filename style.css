@@ -19,11 +19,11 @@
   background-size: cover;
 }
 
-.card {
+.hiw-card {
   transition: background-color 1s;
 }
 
-.card:hover {
+.hiw-card:hover {
   background-color: #ff545a;
   color: white;
 }
